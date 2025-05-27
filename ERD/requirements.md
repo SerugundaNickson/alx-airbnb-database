@@ -123,4 +123,3 @@ Create an Entity-Relationship (ER) diagram based on the database specification.
 
 ![ER Diagram](![github image](https://github.com/user-attachments/assets/24877834-7c78-43db-9e62-97fa97ed57c8)
 )
-
